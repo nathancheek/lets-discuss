@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /discuss.php
+Disallow: /create.php
